@@ -1,0 +1,15 @@
+app:
+  testing:
+    car:  #Simple object Mapping
+      name: Mercedes
+      color: white
+    drivers: # Map of objects
+      daniel:
+        age: 12
+      susan:
+        age: 15
+    sponsors:
+      - mahou beers
+      - burguer kong
+      - awesome sponsor
+      
